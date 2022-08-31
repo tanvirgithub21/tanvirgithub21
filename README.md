@@ -15,7 +15,7 @@ Skills: <br>
 🔰 REACT<br>
 🔰 EXPRESS<br>
 🔰 MONGODB<br>
-🔰 MONGOOSE<br>
+🔰 JIRA APPLICATIONE<br>
 
 - 🔭 I’m currently working on a Hireing Agency web-application
 - 🌱 I’m currently learning Full Stack Web Development 
