@@ -1,10 +1,31 @@
-<h1 align="center">Hi I'm MD Tanvir Ahmed</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+![I am a MERN Stack Web Developer](https://repository-images.githubusercontent.com/437799537/bd2c6298-70dd-4018-a45f-5d5c678ff748)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/tanviruniquebd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanviruniquebd/" height="30" width="40" /></a>
-</p>
+# Hi, I am Md Hasibul Alam
+### I am a MERN Stack Web Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I am currently studying in Babugonj Degree College Of Business. I'm very much passionate about programming that's why I am learning web development in MERN stack. I've worked on some practice projects to level up my skills. You can have a look at my github profile. 
+
+I really love to learn about programming and I'm trying to learn new things everyday. Because programming is fun. If I think of doing something and if I don't know about the project or a specific part then I try to learn about it. Because I love to learn new things about programming. 
+
+Skills: <br>
+🔰 HTML<br>
+🔰 CSS<br>
+🔰 TAILWIND<br>
+🔰 JAVASCRIPT<br>
+🔰 REACT<br>
+🔰 EXPRESS<br>
+🔰 MONGODB<br>
+🔰 MONGOOSE<br>
+
+- 🔭 I’m currently working on a Hireing Agency web-application
+- 🌱 I’m currently learning Full Stack Web Development 
+- 💬 Ask me about Web Development 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirgithub21&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://https://github.com/tanvirgithub21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanvirahmed6174/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tanvirahmed6147/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](instagram link)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18955173/tanvir-ahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tanvir-ahmed00.netlify.app)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirgithub21&show_icons=true&theme=dracula)
+
+![Profile views](https://gpvc.arturio.dev/tanvirgithub21)  
