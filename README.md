@@ -1,9 +1,6 @@
-![TanvirAhmed](/posts/path/to/img.jpg "Optional title")
-
+![Alt text](https://raw.githubusercontent.com/tanvirgithub21/tanvirgithub21/main/Size%20revise%20.png "Optional title")
 
 # Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
-
-
 
 <br/>
 
