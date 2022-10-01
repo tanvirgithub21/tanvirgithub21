@@ -1,31 +1,77 @@
-![I am a MERN Stack Web Developer](https://repository-images.githubusercontent.com/437799537/bd2c6298-70dd-4018-a45f-5d5c678ff748)
-
-# Hi, I am Md Tanvir Ahmed
-### I am a MERN Stack Web Developer
-
-I am currently studying in Babugonj Degree College Of Business. I'm very much passionate about programming that's why I am learning web development in MERN stack. I've worked on some practice projects to level up my skills. You can have a look at my github profile. 
-
-I really love to learn about programming and I'm trying to learn new things everyday. Because programming is fun. If I think of doing something and if I don't know about the project or a specific part then I try to learn about it. Because I love to learn new things about programming. 
-
-Skills: <br>
-🔰 HTML<br>
-🔰 CSS<br>
-🔰 TAILWIND<br>
-🔰 JAVASCRIPT<br>
-🔰 REACT<br>
-🔰 EXPRESS<br>
-🔰 MONGODB<br>
-🔰 JIRA APPLICATIONE<br>
-
-- 🔭 I’m currently working on a Hireing Agency web-application
-- 🌱 I’m currently learning Full Stack Web Development 
-- 💬 Ask me about Web Development 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirgithub21&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![TanvirAhmed](/posts/path/to/img.jpg "Optional title")
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://https://github.com/tanvirgithub21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanvirahmed6174/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tanvirahmed6147/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](instagram link)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18955173/tanvir-ahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tanvir-ahmed00.netlify.app)  
+# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirgithub21&show_icons=true&theme=dracula)
 
-![Profile views](https://gpvc.arturio.dev/tanvirgithub21)  
+
+<br/>
+
+<h2 align="center">
+   Contact US
+</p>
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/tanvirahmed6174/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+  <a href="https://tanvir-ahmed00.netlify.app/">
+		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
+	</a>
+	<a href="https://www.facebook.com/tanvirahmed6147/">
+		<img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+	</a>
+        <a href="tanvir.bd.global@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+### 🚀 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧩 Libraries & Framework
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![tailwind-css](https://img.shields.io/badge/Tailwind--css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### 🧑🏻‍💻 Tools & Platform
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira--Software-0052CC.svg?&style=for-the-badge&logo=Jirasoftware&logoColor=white)
+
+
+### 💻 Workspace
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanvirgithub21&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirgithub21&hide_border=true&theme=radical" />
+</p>
+
+
+## 🔝 Most used languages
+
+<p align="center">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirgithub21&layout=compact&hide_border=true&theme=radical" />
+</p>
