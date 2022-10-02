@@ -1,6 +1,9 @@
 ![Alt text](https://raw.githubusercontent.com/tanvirgithub21/tanvirgithub21/main/Size%20revise%20.png "Optional title")
 
-# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
+# Hi there, I'm Tanvir Ahmed, an aspiring Fontend Developer. 😃
+
+### 📖 About me
+<p>I'm a Front End developer. I am working with React, HTML5, CSS3, and JavaScript (ES6). I also comfortable with Node.js and MongoDB. My strengths are self-motivated, passion, dedicated towards my work.</p>
 
 <br/>
 
@@ -9,6 +12,9 @@
 </p>
 
 <p align="center">
+	<a href="https://www.linkedin.com/in/tanvirahmed6174/">
+		<img src="https://img.icons8.com/officel/16/000000/resume.png"/>Resume
+	</a>
 	<a href="https://www.linkedin.com/in/tanvirahmed6174/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
