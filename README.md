@@ -13,7 +13,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/tanvirahmed6174/">
-		<img src="https://img.icons8.com/officel/16/000000/resume.png"/>Resume
+		<img src="https://raw.githubusercontent.com/tanvirgithub21/tanvirgithub21/main/resume.svg"/>
 	</a>
 	<a href="https://www.linkedin.com/in/tanvirahmed6174/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
