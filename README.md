@@ -52,6 +52,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React--Hook--Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React Query](https://img.shields.io/badge/React--Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
 ### 🧑🏻‍💻 Tools & Platform
 
